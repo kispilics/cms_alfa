@@ -1,0 +1,10 @@
+.img_style{
+	/*background-color: silver;*/
+	/*padding: 5px 0px 105px 0px;*/
+}
+
+img{
+	width: 140px;
+	height: 100px;
+	text-align:center;
+}
