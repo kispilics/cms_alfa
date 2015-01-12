@@ -1,0 +1,15 @@
+
+	
+	HIBÁK
+	
+
+	- nincs tesztelve radio és checkbox ellemekre
+	
+	- datasValidation osztályban hiba jelentkezik a validáláskor
+	
+	- lapozó módositása / hibás működést eredményez a hirek állapotára
+	
+	- minden File-ban amiben szerepel a $_POST['holder'] isset()- el ellenőrzni kell
+	
+	
+	
